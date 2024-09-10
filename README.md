@@ -18,3 +18,5 @@
 [Print all Even numbers between 1 to 100](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/Print%20all%20Even%20numbers%20between%201%20to%20100)
 
 [Print all Odd Numbers between 1 and 100](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/Print%20all%20Odd%20Numbers%20between%201%20and%20100)
+
+[Sum of all Natural numbers between 1 to n](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/Sum%20of%20all%20Natural%20numbers%20between%201%20to%20n)
