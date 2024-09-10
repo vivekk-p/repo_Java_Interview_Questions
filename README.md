@@ -7,3 +7,4 @@
 
 [Print Multiplication Table using While Loop](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/Print%20Multiplication%20Table%20using%20While%20Loop)
 
+[Print Multiplication Table using For Loop](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/Print%20Multiplication%20Table%20using%20For%20Loop)
