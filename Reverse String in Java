@@ -1,0 +1,18 @@
+//Reverse String in Java:
+
+// import Scanner class for user input
+import java.util.Scanner;
+
+// ReverseString is a class
+public class ReverseString {
+
+    // main method
+    public static void main(String[] args){
+        Scanner scan = new Scanner (System.in);  // for user input        
+        String original = scan.nextLine();       // user input is stored in the variable 'original'
+        // reversing and storing the string in the variable 'reversed' using StringBuilder reverse() method
+        String reversed = new StringBuilder(original).reverse().toString();
+        // printing the reversed String
+        System.out.println(reversed);
+    }
+}
