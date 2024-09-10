@@ -1,0 +1,22 @@
+
+// importing Scanner class for user input
+import java.util.Scanner;
+// natural numbers class
+class NaturalNumbers {
+    // main method
+    public static void main(String[] args){
+        // object made for Scanner Class
+        Scanner num = new Scanner(System.in);
+        // taking input from user
+        int n = num.nextInt();
+        
+        // for loop where i is declared and initialized and
+        // i will be less than n and 
+        // i++ is i=i+1
+        for(int i=1; i<=n; i++){
+            // prints i in sequesntial order in next line
+            System.out.println(i);
+        }
+        num.close(); // Close scanner
+    }
+}
