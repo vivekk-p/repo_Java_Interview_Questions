@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+class Table {
+    public static void main(String args []) {
+        Scanner num = new Scanner(System.in);
+        System.out.println("Input a positive number to create table of it:");
+        int tableNumber = num.nextInt();
+        System.out.println("Input a positive number from which the table will start:");
+        int fromNumOfTimes = num.nextInt();
+        System.out.println("Input a positive number till that number the table will be printed:");
+        int toNumOfTimes = num.nextInt();
+        if (tableNumber <=0 || fromNumOfTimes <=0 || toNumOfTimes <=0) {
+            System.out.println("Input only Positive numbers.");
+        } else if ( fromNumOfTimes > toNumOfTimes ) {
+            System.out.println("From number should be smaller than To number.");
+        } else {
+            while (fromNumOfTimes <= toNumOfTimes) {
+            int product = tableNumber*fromNumOfTimes;
+            System.out.println(tableNumber+" X "+fromNumOfTimes+"  =  "+product);
+            fromNumOfTimes++;
+                
+            }
+        }
+        num.close();
+    }
+}
