@@ -10,3 +10,5 @@
 [Print Multiplication Table using For Loop](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/Print%20Multiplication%20Table%20using%20For%20Loop)
 
 [Print Multiplication Table in Reverse Order](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/Print%20Multiplication%20Table%20in%20Reverse%20Order)
+
+[Print all alphabets from a to z](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/Print%20all%20alphabets%20from%20a%20to%20z)
