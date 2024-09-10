@@ -1,0 +1,23 @@
+
+// importing Scanner class for user input
+import java.util.Scanner;
+// natural numbers class
+class NaturalReverseNum {
+    // main method
+    public static void main(String[] args){
+        // object made for Scanner Class
+        Scanner num = new Scanner(System.in);
+        // taking input from user
+        int n = num.nextInt();
+        // checking if the user input is not a zero
+        if (n<=0){
+            System.out.println("Negative numbers and Zero is not a Natural Number.");
+        } else {
+            for(int i=n; i>0; i--){
+            // prints i in decreasing order in next line
+            System.out.println(i);
+            }
+            num.close(); // close Scanner
+        }
+    }
+}
