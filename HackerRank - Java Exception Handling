@@ -10,6 +10,8 @@ Complete the function power in class MyCalculator and return the appropriate res
 Input Format:
 Each line of the input contains two integers, n and p. The locked stub code in the editor reads the input and sends the value to the method as parameters.
 */
+
+
 // Solution:
 
 import java.util.Scanner;
