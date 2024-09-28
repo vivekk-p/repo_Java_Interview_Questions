@@ -24,3 +24,5 @@
 [HackerRank - Java Exception Handling](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/HackerRank%20-%20Java%20Exception%20Handling)
 
 [HackerRank - Java Substring](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/HackerRank%20-%20Java%20Substring)
+
+[HackerRank - Java Substring Comparisions](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/HackerRank%20-%20Java%20Substring%20Comparisons)
