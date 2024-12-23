@@ -28,3 +28,5 @@
 [HackerRank - Java Substring Comparisions](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/HackerRank%20-%20Java%20Substring%20Comparisons)
 
 [HackerRank - Java Anagrams](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/HackerRank%20-%20Java%20Anagrams)
+
+[Print Star Pattern using For Loop](https://github.com/vivekk-p/repo_Java_Interview_Questions/blob/main/StarPattern)
